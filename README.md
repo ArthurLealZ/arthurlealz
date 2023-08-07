@@ -1,4 +1,4 @@
-# Bem-Vindo(a) ao perfil do ArthurLealZ 😁🚀
+# Bem-Vindo(a) ao perfil do Arthur Leal 😁🚀
 
 <div>
   <a href="https://github.com/arthurlealz">
