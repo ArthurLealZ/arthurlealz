@@ -12,8 +12,6 @@
 
 <div align="center">
 
-![Gif de apresentação com meu nome](./src/readme.gif)
-
 </div>
 
 ## Hello World! 👋✨
@@ -30,18 +28,6 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 
 <br>
 
-<a href = "mailto:fransuelton.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" >
-</a>
-<a href="https://steamcommunity.com/id/Fransuelton/">
-<img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white">
-</a>
-<a href="https://discord.com/users/537751809331167243" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/fransuelton/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
-</a>
 
 ## Tech Stack 💻
 
