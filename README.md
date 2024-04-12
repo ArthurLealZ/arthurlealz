@@ -8,12 +8,10 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=<&lines=Welcome+to+my+world!<I%27m+a+22+years+old+<with+a+passion+for+technology.<hailing+from+Florianópolis+Brazil!<Be+Welcome!<restartApplication();" alt="Typing SVG" /></a>
   <div align="right">
   <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28"></div>
+
+  <br> 
 </h1>
-
-<div align="center">
-
-</div>
-
+ <br>
 Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimento web Front-End. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias, bibliotecas e frameworks para criar aplicações com as melhores experiências e soluções. Além disso, sou entusiasta de cibersegurança e nas horas vagas gosto de jogar games, ler livros e assistir filmes e séries.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
